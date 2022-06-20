@@ -11,4 +11,6 @@ Here you can find all my personal projects and projects that I realized for the 
   - [Linkedin - Emanuele Immesi](https://www.linkedin.com/in/emanuele-immesi-5004141b9/) 
   - [Twitter - @EmanueleImmesi](https://twitter.com/EmanueleImmesi)
 
-![stats](https://github-readme-stats.vercel.app/api?username=TheHextech&&show_icons=true&title_color=000000&icon_color=000000&text_color=daf7dc&bg_color=f48c06)
+:zap: GitHub Stats
+
+<img align='left' alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheHextech&show_icons=true&hide_border=true&count_private=true&title_color=000000&icon_color=000000&text_color=daf7dc&bg_color=f48c06">
