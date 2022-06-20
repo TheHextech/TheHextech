@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋🏻🤠
 
-<!--
-**TheHextech/TheHextech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m here to share my learning journey! 
 
-Here are some ideas to get you started:
+Here you can find all my personal projects and projects that I realized for the courses I studied. My goal is to edit these contents in a well documented and explanatory way, with the hope that anyone can consult my repositories and find them useful!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently studying Machine Learning for Data Science
+- 🔧 I want to skill note-taking and knowledge management with Obsidian and learning techniques for my personal growth
+- 🤝🏻 I'd like to realize collaborations for Data Science and Python scripting projects
+- 📫 How to reach me: 
+  - [Linkedin - Emanuele Immesi](https://www.linkedin.com/in/emanuele-immesi-5004141b9/) 
+  - [Twitter - @EmanueleImmesi](https://twitter.com/EmanueleImmesi)
+
+![stats](https://github-readme-stats.vercel.app/api?username=TheHextech&&show_icons=true&title_color=000000&icon_color=000000&text_color=daf7dc&bg_color=f48c06)
