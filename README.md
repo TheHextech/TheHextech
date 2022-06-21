@@ -1,7 +1,7 @@
 <h1 align='center'>Hi <img src="Wave.gif" height='40px' width='40px'>, I'm Emanuele</h1>
 
 <p>
-<img src="giphy.gif" width=250px height=250px align='right'>
+<img src="giphy.gif" width=270px height=270px align='right'>
 I’m here to share my learning journey!<br><br>
 I have a master’s degree in Molecular Biology🧬, but now I’m an aspiring <b>Data Scientist</b>.<br><br>
 Here you can find all my personal projects and those that I realized for <b>Python and Data Science</b> courses I studied. 
@@ -9,7 +9,6 @@ Here you can find all my personal projects and those that I realized for <b>Pyth
 My aim here is to <i>spread my knowledge</i> and edit all my resources in a well documented and explanatory way, with the hope that anyone can consult my repositories and find something useful!  
 </p>
 <br><br>
-
 
 
 - 📒 I'm currently studying Machine Learning
