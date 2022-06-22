@@ -43,12 +43,11 @@ My aim is to <i>spread my knowledge</i> and edit all my resources in a well docu
 
   <summary>:zap: GitHub Stats</summary>
 
-<!--START_SECTION:activity-->
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHextech&layout=compact&theme=cobalt" />
 <img align="center" alt="Emanuele Immesi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheHextech&show_icons=true&hide_border=false&theme=gruvbox" /> 
 <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=TheHextech&theme=dracula" />
 <img align="center" alt="codeSTACKr's GitHub Stats" src="https://activity-graph.herokuapp.com/graph?username=TheHextech&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true&" />
-<!--END_SECTION:activity-->
+
 
 </details><br>
 
