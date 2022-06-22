@@ -1,12 +1,12 @@
 <h1 align='center'>Hi <img src="img_n_gifs/Wave.gif" height='40px' width='40px'>, I'm Emanuele<br><br></h1>
 
 <p>
-<img src="img_n_gifs/giphy.gif" width=300px height=300px align='right' style="padding-left:30px;">
+<img src="img_n_gifs/giphy.gif" width=280px height=280px align='right' style="padding-left:30px;">
 I’m here to share my learning journey!<br><br>
 I have a master’s degree in Molecular Biology🧬, but now I’m an aspiring <b>Data Scientist</b>.<br><br>
 Here you can find all my personal projects and those that I realized for <b>Python and Data Science</b> courses I studied. 
 
-My aim here is to <i>spread my knowledge</i> and edit all my resources in a well documented and explanatory way, with the hope that anyone can consult my repositories and find something useful!  
+My aim is to <i>spread my knowledge</i> and edit all my resources in a well documented and explanatory way, with the hope that anyone can consult my repositories and find something useful!  
 </p><br>
 
 ## About me:
