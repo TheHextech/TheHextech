@@ -1,7 +1,7 @@
 <h1 align='center'>Hi <img src="img_n_gifs/Wave.gif" height='40px' width='40px'>, I'm Emanuele<br><br></h1>
 
 <p>
-<img src="img_n_gifs/giphy.gif" width=270px height=270px align='right' style="padding-left:15px;">
+<img src="img_n_gifs/giphy.gif" width=300px height=300px align='right' style="padding-left:30px;">
 I’m here to share my learning journey!<br><br>
 I have a master’s degree in Molecular Biology🧬, but now I’m an aspiring <b>Data Scientist</b>.<br><br>
 Here you can find all my personal projects and those that I realized for <b>Python and Data Science</b> courses I studied. 
