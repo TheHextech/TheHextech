@@ -55,9 +55,6 @@ My aim is to <i>spread my knowledge</i> and edit all my resources in a well docu
 
   <summary>:zap: Recent GitHub Activity</summary>
   
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 
 </details><br>
 
