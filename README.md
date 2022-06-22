@@ -45,7 +45,7 @@ My aim is to <i>spread my knowledge</i> and edit all my resources in a well docu
 [<img align='left' alt='kaggle' width='80px' src="./img_n_gifs/kaggle_icon.png"/>][kaggle]<br><br>
 
 ---
-<summary>:zap: Recent GitHub Activity</summary>
+## :zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#156](https://github.com/codeSTACKr/create-10k-nft-collection/issues/156) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
@@ -55,12 +55,17 @@ My aim is to <i>spread my knowledge</i> and edit all my resources in a well docu
 5. ❌ Closed PR [#45](https://github.com/codeSTACKr/minter-dapp/pull/45) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
 <!--END_SECTION:activity-->
 
-</details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+## :zap: GitHub Stats
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheHextech&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<p>
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHextech&layout=compact&theme=cobalt" />
+<img align="left" alt="Emanuele Immesi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheHextech&show_icons=true&hide_border=false&theme=gruvbox" /> 
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=TheHextech&theme=dracula" />
+
+</p>
+
+
 
 </details>
 
