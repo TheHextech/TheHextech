@@ -24,6 +24,15 @@ My aim is to <i>spread my knowledge</i> and edit all my resources in a well docu
 - 👻 Fun fact: I keep falling in 'rabbit holes' because I'm obsessed with knowledge 🤷🏻
 
 ---
+
+## Find me:
+
+[<img align='left' alt='twitter' width='50px' src="./img_n_gifs/twitter_icon.png" style="padding-right:5px;" />][twitter]
+[<img align='left' alt='linkedin' width='50px' src="./img_n_gifs/linkedin_icon.png" style="padding-right:5px;" />][linkedin]
+[<img align='left' alt='kaggle' width='80px' src="./img_n_gifs/kaggle_icon.png"/>][kaggle]<br><br>
+
+---
+
 ## Languages and Tools I currently use:
 [<img align='left' alt='python' width='40px' src="./img_n_gifs/python_icon.png" style="padding-right:5px;" />][python]
 [<img align='left' alt='jupyter' width='40px' src="./img_n_gifs/jupyter_icon.png" style="padding-right:5px;" />][jupyter]
@@ -41,7 +50,7 @@ My aim is to <i>spread my knowledge</i> and edit all my resources in a well docu
 
 <details>
 
-  <summary>:zap: GitHub Stats</summary>
+  <summary><h3>:zap: GitHub Stats</h3></summary>
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHextech&layout=compact&theme=cobalt" />
 <img align="center" alt="Emanuele Immesi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheHextech&show_icons=true&hide_border=false&theme=gruvbox" /> 
@@ -51,22 +60,7 @@ My aim is to <i>spread my knowledge</i> and edit all my resources in a well docu
 
 </details><br>
 
-<details>
 
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-
-</details><br>
-
----
-
-## Find me:
-
-[<img align='left' alt='twitter' width='50px' src="./img_n_gifs/twitter_icon.png" style="padding-right:5px;" />][twitter]
-[<img align='left' alt='linkedin' width='50px' src="./img_n_gifs/linkedin_icon.png" style="padding-right:5px;" />][linkedin]
-[<img align='left' alt='kaggle' width='80px' src="./img_n_gifs/kaggle_icon.png"/>][kaggle]<br><br>
-
----
 
 
 [twitter]: https://twitter.com/EmanueleImmesi
