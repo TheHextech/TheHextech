@@ -28,16 +28,42 @@ My aim is to <i>spread my knowledge</i> and edit all my resources in a well docu
 [<img align='left' alt='python' width='40px' src="./img_n_gifs/python_icon.png" style="padding-right:5px;" />][python]
 [<img align='left' alt='jupyter' width='40px' src="./img_n_gifs/jupyter_icon.png" style="padding-right:5px;" />][jupyter]
 [<img align='left' alt='numpy' width='40px' src="./img_n_gifs/numpy_icon.png" style="padding-right:5px;" />][numpy]
-[<img align='left' alt='pandas' width='40px' src="./img_n_gifs/pandas_icon.png" style="padding-right:5px;" />][pandas]
+[<img align='left' alt='pandas' width='40px' src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" style="padding-right:5px;" />][pandas]
 [<img align='left' alt='matplotlib' width='40px' src="./img_n_gifs/matplotlib_icon.png" style="padding-right:5px;" />][matplotlib]
 [<img align='left' alt='seaborn' width='40px' src="./img_n_gifs/seaborn_icon.png" style="padding-right:5px;" />][seaborn]
-[<img align='left' alt='plotly' width='55px' src="./img_n_gifs/plotly_icon.png" style="padding-right:5px;" />][plotly]
+[<img align='left' alt='plotly' width='40px' src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" />][plotly]
 [<img align='left' alt='anaconda' width='55px' src="./img_n_gifs/anaconda_icon.png" style="padding-right:5px;" />][anaconda]
 [<img align='left' alt='VSCode' width='40px' src="./img_n_gifs/vscode_icon.png" style="padding-right:5px;" />][vscode]
 [<img align='left' alt='git' width='40px' src="./img_n_gifs/git_icon.png" style="padding-right:5px;" />][git]
 [<img align='left' alt='github' width='40px' src="./img_n_gifs/github_icon.png" style="padding-right:5px;" />][github]<br><br>
 
 ---
+
+<details>
+
+  <summary>:zap: GitHub Stats</summary>
+
+<!--START_SECTION:activity-->
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHextech&layout=compact&theme=cobalt" />
+<img align="center" alt="Emanuele Immesi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheHextech&show_icons=true&hide_border=false&theme=gruvbox" /> 
+<img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=TheHextech&theme=dracula" />
+<img align="center" alt="codeSTACKr's GitHub Stats" src="https://activity-graph.herokuapp.com/graph?username=TheHextech&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true&" />
+<!--END_SECTION:activity-->
+
+</details><br>
+
+<details>
+
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details><br>
+
+---
+
 ## Find me:
 
 [<img align='left' alt='twitter' width='50px' src="./img_n_gifs/twitter_icon.png" style="padding-right:5px;" />][twitter]
@@ -45,29 +71,7 @@ My aim is to <i>spread my knowledge</i> and edit all my resources in a well docu
 [<img align='left' alt='kaggle' width='80px' src="./img_n_gifs/kaggle_icon.png"/>][kaggle]<br><br>
 
 ---
-## :zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#156](https://github.com/codeSTACKr/create-10k-nft-collection/issues/156) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-2. 🎉 Merged PR [#156](https://github.com/codeSTACKr/create-10k-nft-collection/pull/156) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-3. ❌ Closed PR [#44](https://github.com/codeSTACKr/minter-dapp/pull/44) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-4. 🗣 Commented on [#44](https://github.com/codeSTACKr/minter-dapp/issues/44) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-5. ❌ Closed PR [#45](https://github.com/codeSTACKr/minter-dapp/pull/45) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-<!--END_SECTION:activity-->
 
-
-## :zap: GitHub Stats
-
-<p>
-<img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHextech&layout=compact&theme=cobalt" />
-<img align="center" alt="Emanuele Immesi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheHextech&show_icons=true&hide_border=false&theme=gruvbox" /> 
-<img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=TheHextech&theme=dracula" />
-<img align="center" alt="codeSTACKr's GitHub Stats" src="https://activity-graph.herokuapp.com/graph?username=TheHextech&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true&" />
-</p>
-
-
-
-</details>
 
 [twitter]: https://twitter.com/EmanueleImmesi
 [linkedin]: https://www.linkedin.com/in/emanuele-immesi-5004141b9/
