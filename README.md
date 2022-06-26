@@ -2,7 +2,6 @@
 
 <p>
 <img src="img_n_gifs/giphy.gif" width=280px height=280px align='right' style="padding-left:30px;">
-I’m here to share my learning journey!<br><br>
 I have a master’s degree in Molecular Biology🧬, but now I’m an aspiring <b>Data Scientist</b>.<br><br>
 Here you can find all my personal projects and those that I realized for <b>Python and Data Science</b> courses I studied. 
 
