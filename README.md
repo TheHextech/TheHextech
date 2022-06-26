@@ -77,7 +77,7 @@ My aim is to <i>spread my knowledge</i> and edit all my resources in a well docu
 
 
 [twitter]: https://twitter.com/EmanueleImmesi
-[linkedin]: https://www.linkedin.com/in/emanuele-immesi-5004141b9/
+[linkedin]: https://www.linkedin.com/in/emanueleimmesi/
 [kaggle]: https://www.kaggle.com/emanueleimmesi
 [python]: https://www.python.org
 [jupyter]: https://jupyter.org
