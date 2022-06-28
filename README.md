@@ -49,7 +49,7 @@ My aim is to <i>spread my knowledge</i> and edit all my resources in a well docu
 
 <details>
 
-  <summary><h3>🏟️ My best projects</h3></summary>
+  <summary><h3>🏟️ My projects portfolio</h3></summary>
 
 [Python and Numpy - File organizer](https://nbviewer.org/github/TheHextech/start2impact/blob/master/Data_Science/FileOrganizer_Project_Python_e_Numpy/fileorganizer.ipynb)<br>
 
