@@ -14,7 +14,7 @@ My aim is to <i>spread my knowledge</i> and edit all my resources in a well docu
 - 💡 I want to improve note-taking/knowledge management with [Obsidian.md](https://obsidian.md) and learning techniques for my personal growth
 - 🤝🏻 I'd like to realize collaborations for Data Science and Python scripting projects 
 - 🥅 2022 Goals: 
-  - Complete Data Science course on [start2impact](https://www.start2impact.it/?utm_source=google&utm_medium=cpc&utm_campaign=Search_Brand&gclid=Cj0KCQjw2MWVBhCQARIsAIjbwoNBIfEvWZX83gC74NsYdE7ybID-KGgD8VOZ259wvJ6aeuB_Qh2458waAryxEALw_wcB); 
+  - Complete Data Science course on [start2impact](https://www.start2impact.it/?utm_source=google&utm_medium=cpc&utm_campaign=Search_Brand&gclid=Cj0KCQjw2MWVBhCQARIsAIjbwoNBIfEvWZX83gC74NsYdE7ybID-KGgD8VOZ259wvJ6aeuB_Qh2458waAryxEALw_wcB) <a href="https://www.start2impact.it/percorsi/data-science/" target="_blank">start2impact</a>; 
   - Get hired for an amazing job
 - 🌍 Overall Goals:
   - Merge AI and ML technologies with Biological/Medical sciences;
