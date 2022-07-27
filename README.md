@@ -13,7 +13,7 @@ My aim is to <i>spread my knowledge</i> and edit all my resources in a well docu
 - 📒 I'm currently studying Machine Learning to achieve the role of Junior Data Scientist
 - 🤝🏻 I'd like to realize collaborations for Data Science, Python scripts and open-source projects! 
 - 🥅 2022 Goals: 
-  - Complete Data Science course on <a href="https://www.start2impact.it/percorsi/data-science/" target="_blank">start2impact</a>; 
+  - Complete Data Science course on <a href="https://www.start2impact.it/percorsi/data-science/" target="_blank" rel="noopener noreferrer">start2impact</a>; 
   - Get hired for an amazing job
 - 🌍 Overall Goals:
   - Merge AI and ML technologies with Biological/Medical sciences;
