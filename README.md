@@ -52,7 +52,7 @@ My aim is to <i>spread my knowledge</i> and edit all my resources in a well docu
 
 [Python and Numpy - File organizer](https://nbviewer.org/github/TheHextech/start2impact/blob/master/Data_Science/FileOrganizer_Project_Python_e_Numpy/fileorganizer.ipynb)<br>
 
-[Data Manipulation and Visualization - Food Project](https://nbviewer.org/github/TheHextech/start2impact/blob/master/Data_Science/Food_Project_DataVisualization_DataManipulation/EmanueleImmesiDataVis.ipynb)
+[Data Manipulation and Visualization - Food Project](https://www.kaggle.com/code/emanueleimmesi/food-project-data-manipulation-and-visualization)
 
 
 </details><br>
