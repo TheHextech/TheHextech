@@ -39,7 +39,7 @@ My aim is to <i>spread my knowledge</i> and edit all my resources in a well docu
 [<img align='left' alt='matplotlib' width='40px' src="./img_n_gifs/matplotlib_icon.png" style="padding-right:5px;" />][matplotlib]
 [<img align='left' alt='seaborn' width='40px' src="./img_n_gifs/seaborn_icon.png" style="padding-right:5px;" />][seaborn]
 [<img align='left' alt='plotly' width='40px' src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" />][plotly]
-[<img align='left' alt='scikit-learn' width='40px' src="https://avatars.githubusercontent.com/u/365630?s=200&v=4" style='padding-right:5px;' />][scikit-learn]
+[<img align='left' alt='scikit-learn' width='50px' src="https://avatars.githubusercontent.com/u/365630?s=200&v=4" style='padding-right:5px;' />][scikit-learn]
 [<img align='left' alt='anaconda' width='55px' src="./img_n_gifs/anaconda_icon.png" style="padding-right:5px;" />][anaconda]
 [<img align='left' alt='VSCode' width='40px' src="./img_n_gifs/vscode_icon.png" style="padding-right:5px;" />][vscode]
 [<img align='left' alt='git' width='40px' src="./img_n_gifs/git_icon.png" style="padding-right:5px;" />][git]
