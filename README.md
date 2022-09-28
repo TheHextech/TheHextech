@@ -44,6 +44,7 @@ My aim is to <i>spread my knowledge</i> and edit all my resources in a well docu
 [<img align='left' alt='VSCode' width='40px' src="./img_n_gifs/vscode_icon.png" style="padding-right:5px;" />][vscode]
 [<img align='left' alt='git' width='40px' src="./img_n_gifs/git_icon.png" style="padding-right:5px;" />][git]
 [<img align='left' alt='github' width='40px' src="./img_n_gifs/github_icon.png" style="padding-right:5px;" />][github]
+<br><br>
 [<img align='left' alt='sql' width='60px' src="./img_n_gifs/sql_icon.png" >]
 [<img align='left' alt='mysql' width='33.5px' src="./img_n_gifs/mysql_icon.png" >][mysql]
 <br><br>
