@@ -32,6 +32,7 @@ My aim is to <i>spread my knowledge</i> and edit all my resources in a well docu
 ---
 
 ## Languages and Tools I currently use:
+
 [<img align='left' alt='python' width='40px' src="./img_n_gifs/python_icon.png" style="padding-right:5px;" />][python]
 [<img align='left' alt='jupyter' width='40px' src="./img_n_gifs/jupyter_icon.png" style="padding-right:5px;" />][jupyter]
 [<img align='left' alt='numpy' width='40px' src="./img_n_gifs/numpy_icon.png" style="padding-right:5px;" />][numpy]
@@ -45,8 +46,8 @@ My aim is to <i>spread my knowledge</i> and edit all my resources in a well docu
 [<img align='left' alt='git' width='40px' src="./img_n_gifs/git_icon.png" style="padding-right:5px;" />][git]
 [<img align='top' alt='github' width='40px' src="./img_n_gifs/github_icon.png" style="padding-right:5px;" />][github]
 </br></br>
-<img align='left' alt='sql' width='60px' src="./img_n_gifs/sql_icon.png">
-[<img align='left' alt='mysql' width='33.5px' src="./img_n_gifs/mysql_icon.png" >][mysql]
+<img align='left' alt='sql' width='65px' src="./img_n_gifs/sql_icon.png" style="padding-right:5px">
+[<img align='left' alt='mysql' width='36px' src="./img_n_gifs/mysql_icon.png" style="padding-right:5px">][mysql]
 <br><br>
 
 ---
