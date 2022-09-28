@@ -37,13 +37,16 @@ My aim is to <i>spread my knowledge</i> and edit all my resources in a well docu
 [<img align='left' alt='numpy' width='40px' src="./img_n_gifs/numpy_icon.png" style="padding-right:5px;" />][numpy]
 [<img align='left' alt='pandas' width='40px' src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" style="padding-right:5px;" />][pandas]
 [<img align='left' alt='matplotlib' width='40px' src="./img_n_gifs/matplotlib_icon.png" style="padding-right:5px;" />][matplotlib]
-[<img align='left' alt='seaborn' width='40px' src="./img_n_gifs/seaborn_icon.png" style="padding-right:5px;" />][seaborn]
+[<img align='left' alt='seaborn' width='50px' src="./img_n_gifs/seaborn_icon.png" style="padding-right:5px;" />][seaborn]
 [<img align='left' alt='plotly' width='40px' src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" />][plotly]
 [<img align='left' alt='scikit-learn' width='50px' src="https://avatars.githubusercontent.com/u/365630?s=200&v=4" style='padding-right:5px;' />][scikit-learn]
 [<img align='left' alt='anaconda' width='55px' src="./img_n_gifs/anaconda_icon.png" style="padding-right:5px;" />][anaconda]
 [<img align='left' alt='VSCode' width='40px' src="./img_n_gifs/vscode_icon.png" style="padding-right:5px;" />][vscode]
 [<img align='left' alt='git' width='40px' src="./img_n_gifs/git_icon.png" style="padding-right:5px;" />][git]
-[<img align='left' alt='github' width='40px' src="./img_n_gifs/github_icon.png" style="padding-right:5px;" />][github]<br><br>
+[<img align='left' alt='github' width='40px' src="./img_n_gifs/github_icon.png" style="padding-right:5px;" />][github]
+[<img align='left' alt='sql' width='60px' src="./img_n_gifs/sql_icon.png" >]
+[<img align='left' alt='mysql' width='33.5px' src="./img_n_gifs/mysql_icon.png" >][mysql]
+<br><br>
 
 ---
 
@@ -73,8 +76,6 @@ My aim is to <i>spread my knowledge</i> and edit all my resources in a well docu
 </details><br>
 
 
-
-
 [twitter]: https://twitter.com/EmanueleImmesi
 [linkedin]: https://www.linkedin.com/in/emanueleimmesi/
 [kaggle]: https://www.kaggle.com/emanueleimmesi
@@ -90,3 +91,4 @@ My aim is to <i>spread my knowledge</i> and edit all my resources in a well docu
 [vscode]: https://code.visualstudio.com
 [git]: https://git-scm.com
 [github]: https://github.com
+[mysql]: https://www.mysql.com
