@@ -43,8 +43,8 @@ My aim is to <i>spread my knowledge</i> and edit all my resources in a well docu
 [<img align='left' alt='scikit-learn' width='50px' src="https://avatars.githubusercontent.com/u/365630?s=200&v=4" style='padding-right:5px;' />][scikit-learn]
 [<img align='left' alt='anaconda' width='55px' src="./img_n_gifs/anaconda_icon.png" style="padding-right:5px;" />][anaconda]
 </br></br>
-<img align='left' alt='sql' width='65px' src="./img_n_gifs/sql_icon.png" style="padding-right:5px">
-[<img align='left' alt='mysql' width='36px' src="./img_n_gifs/mysql_icon.png" style="padding-right:5px">][mysql]
+<img align='left' alt='sql' width='65px' src="./img_n_gifs/sql_icon.png" style="padding-right:5px;" />
+[<img align='left' alt='mysql' width='36px' src="./img_n_gifs/mysql_icon.png" style="padding-right:5px;" />][mysql]
 <br><br>
 [<img align='left' alt='VSCode' width='40px' src="./img_n_gifs/vscode_icon.png" style="padding-right:5px;" />][vscode]
 [<img align='left' alt='git' width='40px' src="./img_n_gifs/git_icon.png" style="padding-right:5px;" />][git]
