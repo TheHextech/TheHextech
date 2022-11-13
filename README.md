@@ -2,23 +2,23 @@
 
 <p>
 <img src="img_n_gifs/giphy.gif" width=280px height=280px align='right' style="padding-left:30px;">
-I have a master’s degree in Molecular Biology🧬, but now I’m an aspiring <b>Data Scientist</b>.<br><br>
-Here you can find all my personal projects and those that I realized for <b>Python and Data Science</b> courses I studied. 
+My academical background is about Molecular Biology🧬, but during the COVID-19 pandemic I've started to study Python programming and <b>Data Science</b>.<br><br>
+Here you can find all my personal projects and those that I realized for Python and Data Science courses I studied. 
 
-My aim is to <i>spread my knowledge</i> and edit all my resources in a well documented and explanatory way, with the hope that anyone can consult my repositories and find something useful!  
+I like to spread my knowledge and edit all my resources in a well documented and explanatory way, with the hope that anyone can consult my repositories and find something useful!  
 </p><br>
 
 ## About me:
 
-- 📒 I'm currently studying Machine Learning to achieve the role of Junior Data Scientist
-- 🤝🏻 I'd like to realize collaborations for Data Science, Python scripts and open-source projects! 
+- 📒 I'm studying Machine Learning; 
+- 💼 I'm currently a Junior Business Intelligence Specialist for <a href="https://www.miodottore.it" target="_blank"> MioDottore</a> (Italian Department of DocPlanner group);
+- 🤝🏻 I'd like to realize collaborations for Data Science, Python scripts and open-source projects;
 - 🥅 2022 Goals: 
   - Complete Data Science course on <a href="https://www.start2impact.it/percorsi/data-science/" target="_blank" rel="noopener noreferrer">start2impact</a>; 
-  - Get hired for an amazing job
 - 🌍 Overall Goals:
-  - Merge AI and ML technologies with Biological/Medical sciences;
+  - Merge AI and ML technologies with Biological/Medical sciences and Healthcare services;
   - Help building a better future for the world;
-  - Die in peace (possibly elder)
+  - Die in peace (possibly elder);
 - 👻 Fun fact: I keep falling in 'rabbit holes' because I'm obsessed with knowledge 🤷🏻
 
 ---
