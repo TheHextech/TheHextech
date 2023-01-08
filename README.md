@@ -13,7 +13,7 @@ I like to spread my knowledge and edit all my resources in a well documented and
 - 📒 I'm studying Machine Learning; 
 - 💼 I'm currently working as a Junior Business Intelligence Specialist for <a href="https://www.miodottore.it" target="_blank"> MioDottore</a> (Italian Department of DocPlanner group);
 - 🤝🏻 I'd like to realize collaborations for Data Science, Python scripts and open-source projects;
-- 🥅 2022 Goals: 
+- 🥅 2023 Goals: 
   - Complete Data Science course on <a href="https://www.start2impact.it/percorsi/data-science/" target="_blank" rel="noopener noreferrer">start2impact</a>; 
 - 🌍 Overall Goals:
   - Merge AI and ML technologies with Biological/Medical sciences and Healthcare services;
